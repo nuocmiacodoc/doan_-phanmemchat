@@ -1,0 +1,8 @@
+E:\C#\Đồ án phần mềm chat\Alien_server\bin\Debug\Alien_server.exe.config
+E:\C#\Đồ án phần mềm chat\Alien_server\bin\Debug\Alien_server.exe
+E:\C#\Đồ án phần mềm chat\Alien_server\bin\Debug\Alien_server.pdb
+E:\C#\Đồ án phần mềm chat\Alien_server\obj\Debug\Alien_server.Form1.resources
+E:\C#\Đồ án phần mềm chat\Alien_server\obj\Debug\Alien_server.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Alien_server\obj\Debug\Alien_server.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Alien_server\obj\Debug\Alien_server.exe
+E:\C#\Đồ án phần mềm chat\Alien_server\obj\Debug\Alien_server.pdb

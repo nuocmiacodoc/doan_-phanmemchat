@@ -1,0 +1,9 @@
+E:\C#\Đồ án phần mềm chat\Lady_Server\bin\Debug\Lady_Server.exe.config
+E:\C#\Đồ án phần mềm chat\Lady_Server\bin\Debug\Lady_Server.exe
+E:\C#\Đồ án phần mềm chat\Lady_Server\bin\Debug\Lady_Server.pdb
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Lady_Server.csprojResolveAssemblyReference.cache
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Alien_server.Form1.resources
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Lady_Server.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Lady_Server.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Lady_Server.exe
+E:\C#\Đồ án phần mềm chat\Lady_Server\obj\Debug\Lady_Server.pdb

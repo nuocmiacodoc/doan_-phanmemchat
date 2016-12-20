@@ -1,0 +1,11 @@
+E:\C#\Đồ án phần mềm chat\Client\bin\Debug\Client.exe.config
+E:\C#\Đồ án phần mềm chat\Client\bin\Debug\Client.exe
+E:\C#\Đồ án phần mềm chat\Client\bin\Debug\Client.pdb
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.DangKi.resources
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.DangNhap.resources
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.exe
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.pdb
+E:\C#\Đồ án phần mềm chat\Client\obj\Debug\Client.Cửa_Sổ_Chat.resources

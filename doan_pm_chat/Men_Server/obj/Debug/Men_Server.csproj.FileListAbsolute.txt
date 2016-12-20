@@ -1,0 +1,9 @@
+E:\C#\Đồ án phần mềm chat\Men_Server\bin\Debug\Men_Server.exe.config
+E:\C#\Đồ án phần mềm chat\Men_Server\bin\Debug\Men_Server.exe
+E:\C#\Đồ án phần mềm chat\Men_Server\bin\Debug\Men_Server.pdb
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Men_Server.csprojResolveAssemblyReference.cache
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Alien_server.Form1.resources
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Men_Server.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Men_Server.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Men_Server.exe
+E:\C#\Đồ án phần mềm chat\Men_Server\obj\Debug\Men_Server.pdb

@@ -1,0 +1,9 @@
+E:\C#\Đồ án phần mềm chat\Animal_Server\bin\Debug\Animal_Server.exe.config
+E:\C#\Đồ án phần mềm chat\Animal_Server\bin\Debug\Animal_Server.exe
+E:\C#\Đồ án phần mềm chat\Animal_Server\bin\Debug\Animal_Server.pdb
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Animal_Server.csprojResolveAssemblyReference.cache
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Animal_Server.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Animal_Server.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Animal_Server.exe
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Animal_Server.pdb
+E:\C#\Đồ án phần mềm chat\Animal_Server\obj\Debug\Alien_server.Form1.resources

@@ -1,0 +1,9 @@
+E:\C#\Đồ án phần mềm chat\Root_Server\bin\Debug\Root_Server.exe.config
+E:\C#\Đồ án phần mềm chat\Root_Server\bin\Debug\Root_Server.exe
+E:\C#\Đồ án phần mềm chat\Root_Server\bin\Debug\Root_Server.pdb
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.csprojResolveAssemblyReference.cache
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.Form1.resources
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.Properties.Resources.resources
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.csproj.GenerateResource.Cache
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.exe
+E:\C#\Đồ án phần mềm chat\Root_Server\obj\Debug\Root_Server.pdb
